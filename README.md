@@ -6,3 +6,11 @@ Table of contents
       c) Boolean
       d) Set
       e) Dictionary
+   2. Operators in python
+      a) Arithmetic operators
+      b) Comparison operators
+      c) Assignment Operators
+      d) Logical Operators
+      e) Bitwise Operators
+      f) Membership Operators
+      g) Identity Operators
