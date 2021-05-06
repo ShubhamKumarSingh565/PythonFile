@@ -16,7 +16,8 @@ print(2 + 4)
 print(2 - 4)
 print(2 * 4)
 print(2 ** 3) # power of
-print(2 // 4)
+print(17 / 3)
+print(17 // 3)
 print(type(2 + 5))
 # Float
 print("\nFloat")
