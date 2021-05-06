@@ -17,7 +17,7 @@ print("Arithematic operators")
  /  : Divide
  %  : Reminder
  ** : Exponent
- // : Floor division
+ // : Floor division discards the fractional part
 """
 x, y = 8, 6
 print(x + y)
